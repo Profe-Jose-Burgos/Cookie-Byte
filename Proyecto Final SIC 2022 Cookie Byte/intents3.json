@@ -1,0 +1,133 @@
+{
+    "intents": [
+        {
+            "tag": "saludos",
+            "patterns": [
+                "hola",
+                "buenos dias",
+                "buenas tardes",
+                "buenas noches",
+                "holi"
+            ],
+            "responses": [
+                "Hola soy N.enti tu asistente virtual. estoy aqu\u00ed las 24 horas del d\u00eda, los 7 d\u00edas de la semana para ayudarlo con todo lo que necesite. Para saber m\u00e1s selecciona una de las siguientes opciones?\n 1. Solicitar citas \n 2. Envío de paquetes \n 3.Cotización de presupuesto \n 4.Preguntas Frecuentes, Quiero saber más"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "despedidas",
+            "patterns": [
+                "chao",
+                "ciao",
+                "byee",
+                "bye",
+                "eso es todo",
+                "adios",
+                "hasta luego",
+                "nos vemos",
+                "hasta la proxima"
+            ],
+            "responses": [
+                "Hasta luego que tenga un buen dia"
+            ]
+        },
+        {
+            "tag": "agradecimientos",
+            "patterns": [
+                "gracias",
+                "muchas gracias",
+                "mil gracias",
+                "muy amable",
+                "se lo agradezco",
+                "fue de ayuda",
+                "gracias por la ayuda",
+                "muy agradecido",
+                "gracias por su tiempo"
+            ],
+            "responses": [
+                "de nada",
+                "feliz por ayudarlo",
+                "gracias a usted",
+                "estamos para servirle",
+                "fue un placer"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "norespuesta",
+            "patterns": [],
+            "responses": [
+                "no se detecto una respuesta"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "solicitar_cita",
+            "patterns": [
+                "solicitar una cita",
+                "cita",
+                "agendar una cita",
+                "pedir cita",
+                "establecer cita"
+            ],
+            "responses": [
+                "¿Desea agendar una cita?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "envio",
+            "patterns": [
+                "enviar paquete",
+                "envio",
+                "hacer un envio"
+
+            ],
+            "responses": [
+                "Claro!, para ayudarte con tu envio de paquete necesito lo siguiente:"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "cotizacion",
+            "patterns": [
+                "cotizacion",
+                "presupesto",
+                "cuanto me costaria",
+                "cuanto me saldria",
+                "presupuestar",
+                "cotizar"
+            ],
+            "responses": [
+                "Claro!, para darte una cotizacion necesito lo siguiente:"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "faq",
+            "patterns": [
+                "quiero saber más",
+                "preguntas frecuentes",
+                "más información"
+            ],
+            "responses": [
+                "Por supuesto!, aquí tienes más información: \n "
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
