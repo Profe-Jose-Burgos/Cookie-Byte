@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "hackathon-sic-2022",
+  "private_key_id": "82bab4d0f8c3232a6ef33cbe4b83ff0f3e10f16f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1ma0xPbx5YSRY\nOvobuh45kHFW88fhuhsbSQSjlmHtOp9fTT/c7k8qT+MQbbcvVrcoeLJ5uGom/H0W\nyYMJDS2zqkvG1gxBylzfyZOy24duA8/qraVROW87GRE8Us2TLW4xkcn2PZLWxOmq\nja4FKjNZKnsk8mUIvcsdDwEY8+88NgxawmfGsBKgtJrJNGQBA/ze8CjvW/2fdFcE\n30U+Gzm5MqgbmaofnIbSG+jOoyRSzExSAnkif5KO3dHJkJXKi4WDBuxkRPo+G7zw\nKhr1qjoj6iQRRGQdCC2Qn0NPb2HwxuerwT7WfP070i1pKUyUF4yjGGsGulUT9z5+\nMNEPaVUPAgMBAAECggEACsL2UcmafpTq1I58kNUSnA9HvPZJ9sH5GXPvyIpaXkN2\nYboc5tV5r1FRn7RPKG9NzLuuU+rbFSYqrlJQ9Ht2WF3NcZVXEs6dR1oiNkJIWcgn\nDTCu8DIxOcIIB/IEon9zafbKQZ0V5qoZPZUTMwiOFDwhiEFHCuGrnjRSUjpU1IjQ\noGUKQY7kNT2wbWFr3pcBoX/+kd7H1tQwycfC/hY5Ez+HW1FM87fVwblte7hwaGtn\n3jf3DxhUf+fjRQF9an9E2HsSZKimnirbTq7xLhFqaUOxqWRaJrLQgvsXiM2GX4z8\ncIKphH4yU77h0KAtzUJho1nAs1gV7LMQ6heG/N7epQKBgQDjEaRpOI0vuBrvlm7E\n9K1IM6EZMMUughH+1wq+T1qSMUVTcRBTE7MowFwnqUyRTM0sMbKR9H+KUMKth3MF\nlxDKxW2544iljZDbyBwoIiKM/9M24bJtrbMNzQVM7r1tmZkR2guEp3Ev9riPLtZy\noTsm6ghNnpydquesrgVMgyQ/owKBgQDMvPloR2KLT1uT1ToDbNXiOvIkFrJGnT2P\n2PI5aV6UaRWgC5Tj/p35StBifI60+tD1WEQ3r6idMsn68TSjpAa6C5OW6VegBj+0\nESHOFXCxTubpQ8QdnMICy0fL5RWl7zfa7Y2K8BGKthLj/kzqxJ8gzGj5O19zUdG7\nfQUn2zN7pQKBgDbhrLtBz94YwWnnEh7IhJlO4UEVaJM1HORbVV1qEJoFDpx8V1W9\nDTBsTdnIMZls1qo32NEuJyVnH6aRdluDh6t6zGqBdCWPcdOtKiEJHxC1RHefVWDs\n+rn7M6zEh0RWO4j1CpOlZNYS68ivqWVLUuC08AzSqUfyZsx1wxIbIEfBAoGACOtG\nljNd6KG5ZJRKZbHNE4Dr4YSXmZnp/6U80CF1/FMjnQhEITaLXTvUHiY89Udj6PxC\nZIajes2mnOb7GxHfNSWh9VYO+iqrhcWlSlwGv8KnLoxEM+ILVaHTa9979PGZ5lCo\n9N+GdBuAcSw335ZXNE+TVyAuBVEQKPHGUrkq4f0CgYEAnmICkPr5CWDk7bsgVl5l\nn/MscREMG90itXVaHA55HYdsg333bJceQMLy153XoueJnqeDNCkzlIfO+YETPczV\nbz/DEXhqoRt5idAF5WRfdP7TWCePZcyIJBi4VL/EsjoHId449dkfC7V4eVLGFG6k\n/fraFfc2/rat4d7IS2jEGXs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chatbot-sic-2022@hackathon-sic-2022.iam.gserviceaccount.com",
+  "client_id": "115752135055663454261",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chatbot-sic-2022%40hackathon-sic-2022.iam.gserviceaccount.com"
+}

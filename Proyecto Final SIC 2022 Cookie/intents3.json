@@ -1,0 +1,134 @@
+{
+    "intents": [
+        {
+            "tag": "saludos",
+            "patterns": [
+                "hola",
+                "buenos dias",
+                "buenas tardes",
+                "buenas noches",
+                "holi"
+            ],
+            "responses": [
+                "¡Hola! Bienvenid@ a Cookie Box, mi nombre es N.enti tu asistente virtual. ¿En que le puedo ayudar?\n 1. Solicitar citas \n 2. Envío de paquetes \n 3.Cotización de presupuesto \n 4.Preguntas Frecuentes, Quiero saber más"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "despedidas",
+            "patterns": [
+                "chao",
+                "ciao",
+                "byee",
+                "bye",
+                "eso es todo",
+                "adios",
+                "hasta luego",
+                "nos vemos",
+                "hasta la proxima"
+            ],
+            "responses": [
+                "Hasta luego que tenga un buen dia"
+            ]
+        },
+        {
+            "tag": "agradecimientos",
+            "patterns": [
+                "gracias",
+                "muchas gracias",
+                "mil gracias",
+                "muy amable",
+                "se lo agradezco",
+                "fue de ayuda",
+                "gracias por la ayuda",
+                "muy agradecido",
+                "gracias por su tiempo"
+            ],
+            "responses": [
+                "de nada",
+                "feliz por ayudarlo",
+                "gracias a usted",
+                "estamos para servirle",
+                "fue un placer"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "norespuesta",
+            "patterns": [],
+            "responses": [
+                "no se detecto una respuesta"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "solicitar_cita",
+            "patterns": [
+                "solicitar una cita",
+                "cita",
+                "agendar una cita",
+                "pedir cita",
+                "establecer cita"
+            ],
+            "responses": [
+                "¿Desea agendar una cita?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "envio",
+            "patterns": [
+                "enviar paquete",
+                "envio",
+                "hacer un envio"
+
+            ],
+            "responses": [
+                "Claro!, para ayudarte con tu envio de paquete necesito lo siguiente:"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "cotizacion",
+            "patterns": [
+                "cotización",
+                "cotizacion",
+                "presupesto",
+                "cuanto me costaria",
+                "cuanto me saldria",
+                "presupuestar",
+                "cotizar"
+            ],
+            "responses": [
+                "¿Desea realizar una cotizacion?"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "faq",
+            "patterns": [
+                "quiero saber mas",
+                "preguntas frecuentes",
+                "quiero mas información"
+            ],
+            "responses": [
+                "Por supuesto!, aquí tienes más información:\n*1. ¿Como obtengo un casillero?*\n    Una vez creado su cuenta en nuestra pagina, se le proporcionara la direccion de nuestro casillero.\n\n*2. ¿Como podria pagar?* \n   Aceptamos: efectivo, tarjetas de debito/credito, yappy y transferencia\n\n*3. ¿Cuanto cobran por libra?*\n    Con nuestro servicio, cobramos $2.75 por libra. \n\n*4. ¿Cuanto se tarda en llegar el paquete?*\n    El tiempo aproximado de entrega es de 2 a 7 dias laborales al casillero de Miami. \n   Una vez que llegue al casillero, el tiempo aproximado que llegue a Panama seria de 2 a 5 dias laborales.\n\n*5. ¿Como sabre que llego mi paquete?*\n   Cuando su paquete llegue a nuestras manos, se le notificara por correo\n "
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
